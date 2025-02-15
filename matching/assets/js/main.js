@@ -104,7 +104,7 @@ class AudioController {
                 "assets/images/oo5.jpeg",
                 "assets/images/oo6.jpeg",
                  "assets/images/oo7.jpeg",
-                                "assets/images/f.png" ];
+                              ];
             // Duplicate the array for level 3
             return imagesLevel3.concat(imagesLevel3); // Concatenate to duplicate the array
   
